@@ -1,5 +1,5 @@
 # Data-Analysis-
-The data used for this small project is an old income census data.
+The data used for this small project is the 1994 income census data.
 ## Purpose:
 * Look at the relationships between different attributes of people & the income.
 * Extract important features that impact the income the most.
