@@ -1,10 +1,8 @@
-# Inceom Census Data-Analysis
+# [Inceom Census Data-Analysis](https://archive.ics.uci.edu/ml/datasets/Census+Income)
 The data used for this small project is the 1994 income census data.
 ## Purpose:
 * Look at the relationships between different attributes of people & the income.
 * Extract important features that impact the income the most.
-## Data source:
-https://archive.ics.uci.edu/ml/datasets/Census+Income
 ## Preprocessing:
 *	Missing data are removed
 *	Age binning
