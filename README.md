@@ -1,4 +1,4 @@
-# Data-Analysis-
+# Inceom Census Data-Analysis
 The data used for this small project is the 1994 income census data.
 ## Purpose:
 * Look at the relationships between different attributes of people & the income.
